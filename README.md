@@ -13,6 +13,6 @@ The second dataset is the result of predicting the ingredients of our testing im
 
 # How to use the models
 Inside the finalDemo folder, there is the option to test the final pipeline. <br>
-To do so: 1. place only one Image to demo_images and delete anything in the folder. <br>
+To do so:<br> 1. place only one Image to demo_images and delete anything in the folder. <br>
 	2. download the best model available at the above link and place them outside the demo_images folder.<br>
 	3. change the path inside the demo code to your path and you are ready to go.<br>
