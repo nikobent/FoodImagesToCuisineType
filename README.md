@@ -10,6 +10,8 @@ In the main folder there exist the notebooks prepared to train the BoW model and
 The first dataset comes for kaggle and includes ingredients from dishes with their cuisine.
 The second dataset is the result of predicting the ingredients of our testing images using the model of : https://github.com/facebookresearch/inversecooking . 
 
+# How it works
+![What happens in the pipeline](https://github.com/nikobent/FoodImagesToCuisineType/blob/masterhwoitworks.PNG)
 
 # How to use the models
 Inside the finalDemo folder, there is the option to test the final pipeline. <br>
